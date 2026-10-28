@@ -1,15 +1,14 @@
+# Unity generated files
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
 [Ll]ogs/
-[Uu]ser[Ss]ettings/
+[Uu]serSettings/
+
+# IDE-generated files
 .vs/
 .vscode/
 *.csproj
 *.sln
 *.suo
 *.user
-*.tmp
-.DS_Store
